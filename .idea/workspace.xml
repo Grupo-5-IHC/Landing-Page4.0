@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92a4e2f2-d318-4cd5-8e0f-b4845b84e30f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CSS files/Styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Public/Assets/styles/Styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS files/bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Public/Assets/styles/bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS files/fontcontact.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Public/Assets/styles/fontcontact.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Public/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Js Files/Ejemplo.js" beforeDir="false" afterPath="$PROJECT_DIR$/Public/Assets/scripts/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/business-person-to-explain-right-hand_svgrepo.com.png" beforeDir="false" afterPath="$PROJECT_DIR$/Public/Assets/images/business-person-to-explain-right-hand_svgrepo.com.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Y5pq1hj3X6DYz34uE6nQyN1fDe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "develop",
+    "last_opened_file_path": "C:/Users/Sebastian/Downloads/Landingpage4.0/Landingpage4.0/Landingpage3.0/Landingpage/untitled",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sebastian\Downloads\Landingpage4.0\Landingpage4.0\Landingpage3.0\Landingpage\untitled\Public\Assets" />
+      <recent name="C:\Users\Sebastian\Downloads\Landingpage4.0\Landingpage4.0\Landingpage3.0\Landingpage\untitled\Public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92a4e2f2-d318-4cd5-8e0f-b4845b84e30f" name="Changes" comment="" />
+      <created>1699825482177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699825482177</updated>
+      <workItem from="1699825483172" duration="5910000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
